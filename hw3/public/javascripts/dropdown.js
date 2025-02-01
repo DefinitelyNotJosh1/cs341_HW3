@@ -1,3 +1,6 @@
+// Author: Joshua Krasnogorov
+// JavaScript/JQuery code for dropdown, Credit to ChatGPT for outline
+
 $(document).ready(function() {
     var defaultMonth = 'Jan'; // Default month
         $('#dropdownButton').text(defaultMonth); // Set default month

@@ -1,3 +1,6 @@
+// Author: Joshua Krasnogorov
+// JavaScript/JQuery code for ordering
+
 $(document).ready(function(){
     $("#orderButton").click(function(){
         // get textArea and check for "vegan"
